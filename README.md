@@ -6,16 +6,17 @@ My application needed to work with a list of any number of students, not just wi
 
 Screenshots of the completed projects are below.
  
+ Page 1
  ![page1](screenshots/img1.png)
  
- 
+ Page 2
  ![page2](screenshots/img2.png)
  
- 
+ Page 3
  ![page3](screenshots/img3.png)
  
- 
+ Page 4
  ![page4](screenshots/img4.png)
  
- 
+ Page 5
  ![page5](screenshots/img5.png)
